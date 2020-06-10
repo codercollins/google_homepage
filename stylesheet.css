@@ -19,7 +19,7 @@ body {
     text-align: center;
     background-color: #f0f0f0;
 }
-.ul {
+ul {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
