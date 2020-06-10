@@ -1,6 +1,7 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 10px;
+    font-color: #000000
 }
 .top-left-nav {
     text-align: left;
@@ -16,5 +17,10 @@ body {
 
 #search {
     text-align: center;
-    background-color:
+    background-color: #f0f0f0;
+}
+.ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
 }
