@@ -21,6 +21,13 @@ body {
 }
 ul {
     list-style-type: none;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
+li {
+    list-style-type: none;
+    display: inline-block;
     margin: 0px;
     padding: 0px;
 }
