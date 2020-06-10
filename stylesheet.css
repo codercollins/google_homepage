@@ -3,12 +3,11 @@ body {
     font-size: 10px;
     font-color: #000000
 }
-.top-left-nav {
+top-nav {
     text-align: left;
 }
-
-.top-right-nav {
-    text-align: right;
+.bottom-nav {
+    text-align: left;
 }
 .img-container {
     text-align: center;
@@ -30,4 +29,8 @@ li {
     display: inline-block;
     margin: 0px;
     padding: 0px;
+}
+li a {
+    display: block;
+    padding: 8x;
 }
