@@ -57,7 +57,15 @@ html, body {
 
 .img-container {
     text-align: center;
+}
+
+img {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 200px;
 }
 
 #search {
