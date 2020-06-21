@@ -32,25 +32,24 @@ body {
 }
 
 .img-container {
-    position: relative center;
+    position: fixed;
     width: 100%;
+    top: 32%;
+    left: 38%;
 }
 
 img {
-
+    position: relative;
+    left: 4%;
 }
 
 
 #search {
-    text-align: center;
     background-color: #f0f0f0;
 }
 
 #footer {
     background-color:rgb(235, 230, 230);
-    border: none;
-    box-sizing: border-box;
-    padding: 10px 10px;
     height: 40px;
     width:100%;
     position: fixed;
